@@ -1,0 +1,76 @@
+---
+booktitle: "Proceedings of The 14th Asian Conference on Machine\r Learning"
+shortname: ACML
+sections:
+- name: Preface
+  title: Preface
+- name: Contributed Papers
+  title: Contributed Papers
+volume: '189'
+year: '2022'
+start: &1 2022-12-12
+end: 2022-12-14
+published: 2023-04-13
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ACML-2022
+month: 0
+cycles: false
+bibtex_editor: Balasubramanian, Vineeth N and Tsang, Ivor
+editor:
+- given: Vineeth N
+  family: Balasubramanian
+- given: Ivor
+  family: Tsang
+title: Proceedings of Machine Learning Research
+description: "Proceedings of The 14th Asian Conference on Machine\r Learning\n  Held
+  in Hyderabad, India on 12-14 December 2022\n\nPublished as Volume 189 by the Proceedings
+  of Machine Learning Research on 13 April 2023.\n\nVolume Edited by:\n  Vineeth N
+  Balasubramanian\n  Ivor Tsang\n\nSeries Editors:\n  Neil D. Lawrence\n"
+date_str: 12--14 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v189"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v189
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v189
+email: ''
+conference:
+  name: Asian Conference on Machine Learning
+  url: https://www.acml-conf.org/2022/
+  location: Hyderabad, India
+  dates:
+  - *1
+  - 2022-12-13
+  - 2022-12-14
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v189/acml22.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v189/acml22.bib
