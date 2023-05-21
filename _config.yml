@@ -18,17 +18,17 @@ issn: 2640-3498
 id: ACML-2022
 month: 0
 cycles: false
-bibtex_editor: Balasubramanian, Vineeth N and Tsang, Ivor
+bibtex_editor: Khan, Emtiyaz and Gonen, Mehmeet
 editor:
-- given: Vineeth N
-  family: Balasubramanian
-- given: Ivor
-  family: Tsang
+- given: Emtiyaz
+  family: Khan
+- given: Mehmeet
+  family: Gonen
 title: Proceedings of Machine Learning Research
 description: "Proceedings of The 14th Asian Conference on Machine\r Learning\n  Held
   in Hyderabad, India on 12-14 December 2022\n\nPublished as Volume 189 by the Proceedings
-  of Machine Learning Research on 13 April 2023.\n\nVolume Edited by:\n  Vineeth N
-  Balasubramanian\n  Ivor Tsang\n\nSeries Editors:\n  Neil D. Lawrence\n"
+  of Machine Learning Research on 13 April 2023.\n\nVolume Edited by:\n  Emtiyaz
+  Khan\n  Mehmeet Gonen\n\nSeries Editors:\n  Neil D. Lawrence\n"
 date_str: 12--14 Dec
 url: https://proceedings.mlr.press
 author:
