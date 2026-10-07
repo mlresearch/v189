@@ -8,7 +8,7 @@ sections:
   title: Contributed Papers
 volume: '189'
 year: '2022'
-start: &1 2022-12-12
+start: 2022-12-12
 end: 2022-12-14
 published: 2023-04-13
 layout: proceedings
@@ -65,7 +65,7 @@ conference:
   url: https://www.acml-conf.org/2022/
   location: Hyderabad, India
   dates:
-  - *1
+  - 2022-12-12
   - 2022-12-13
   - 2022-12-14
 analytics:
